@@ -1,2 +1,1 @@
-# Slote-game-first-step
-It is good??
+index.html
